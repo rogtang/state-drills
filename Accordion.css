@@ -5,11 +5,11 @@
     list-style-type: none;
   }
   
-  .Accordion__item {
+  .accordion-item {
     margin-bottom: 2px;
   }
   
-  .Accordion__item button {
+  .accordion-item button {
     background: lightgrey;
     border: 1px solid #222;
     padding: 10px 20px;
@@ -18,7 +18,7 @@
     font-weight: bold;
   }
   
-  .Accordion__item p {
+  .accordion-item p {
     background: #fdfcfc;
     border: 1px solid #777;
     border-top: none;
