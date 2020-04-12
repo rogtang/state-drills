@@ -19,8 +19,8 @@ class Accordion extends React.Component {
         )
     }
 
-    handleActiveSection = (sectionIndex) => {
-        this.setState({activeSectionIndex: sectionIndex})
+    handleActiveSection = (index) => {
+        this.setState({activeSectionIndex: index})
     }
 
     render() {
